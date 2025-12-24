@@ -485,7 +485,7 @@
     }
 
     .hero_banner-item {
-        height: 60vh;
+        height: 70vh;
         padding: 152px 0 146px;
     }
 
@@ -991,10 +991,6 @@
 
 /* SM Small Device :550px. */
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-
-    .hero_banner-item {
-        height: 70vh;
-    }
 
     .brand_wraper {
         right: 5%;
