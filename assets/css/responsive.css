@@ -187,6 +187,10 @@
         height: 80vh;
         padding: 200px 0 171px;
     }
+
+    .hero_banner-other{
+        height: auto;
+    }
     
     .hero_banner-item__inner {
         grid-template-columns: 62% 25%;
@@ -485,8 +489,12 @@
     }
 
     .hero_banner-item {
-        height: 80vh;
+        height: 70vh;
         padding: 152px 0 146px;
+    }
+
+    .hero_banner-other{
+        height: auto;
     }
 
     .hero_banner-wraper .owl-prev {
